@@ -1,4 +1,4 @@
-# Análisis Agentes :
+# Análisis Agentes 📑
 
 <img src="https://www.lifeder.com/wp-content/uploads/2018/04/empresas-economia-concepto-min-1024x512.jpg" width='80%'>
 
@@ -12,7 +12,7 @@
 
 
 ### Descripción del Proyecto :clipboard:
-Este proyecto se basa en el análisis de datos proporcionados en el archivo `Finanzas.xlsx`.
+Este proyecto se basa en el análisis de datos contenidos en el archivo comprimido `datos.zip`.
 
 
 ### Herramientas Utilizadas :wrench:
@@ -20,9 +20,9 @@ Este proyecto se basa en el análisis de datos proporcionados en el archivo `Fin
 
   
 ### Estructura del Proyecto :open_file_folder:
-- **finanzas.pbix:** Reporte de Power BI basado en los datos extraídos.
+- **reporte_tractchun.pbix:** Reporte de Power BI basado en los datos extraídos.
 
   
 ### Cómo usar este proyecto :question:
 Para aprovechar al máximo este proyecto, simplemente sigue estos pasos:
-1. Abre el archivo `finanzas.pbix` y explora el informe generado en Power BI.
+1. Abre el archivo `reporte_tractchun.pbix` y explora el informe generado en Power BI.
