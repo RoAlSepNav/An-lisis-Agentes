@@ -1,6 +1,6 @@
 # Análisis Agentes :
 
-<img src="https://www.lifeder.com/wp-content/uploads/2018/04/empresas-economia-concepto-min-1024x512.jpg" width='90%'>
+<img src="https://www.lifeder.com/wp-content/uploads/2018/04/empresas-economia-concepto-min-1024x512.jpg" width='10%'>
 
 
 ## Tabla de contenidos
